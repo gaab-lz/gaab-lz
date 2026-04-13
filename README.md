@@ -1,4 +1,4 @@
-# Gabriel
+# Gabriel Luz
 **Full Stack Developer | Building Secure & Scalable Solutions**
 
 <h4 align="left">

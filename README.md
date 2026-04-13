@@ -1,7 +1,10 @@
-Caio Vinicius,
-Full Stack Developer
+👋 Gabriel Nascimento Luz
+💻 Full Stack Developer
 
-<h4 align="left">Hi ! My name is Caio Vinicius, and I’m a Software Development student from Salvador, Brazil, with a technical background in IT. I’m passionate about technology, programming, and web development, and I’ve been building my journey with a focus on Python, HTML, CSS, JavaScript, Java, SQL, and C. I believe in continuous learning and developing practical projects as a way to grow professionally and create impact through technology.</h4>
+<h4 align="left">
+I’m passionate about technology, programming, and web development. I’ve been building my journey focusing on creating practical projects and constantly improving my skills.
+
+Currently, I work with technologies such as Python, HTML, CSS, JavaScript, Java, SQL, and C. I strongly believe in continuous learning and using real-world projects to grow professionally and make an impact through technology.</h4>
 
 <div align="left">,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
